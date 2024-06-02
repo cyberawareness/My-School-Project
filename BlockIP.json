@@ -1,0 +1,12 @@
+{
+  "name": "BlockIP",
+  "version": "1.0",
+  "author": "Wole Adekola",  # Your Full Name
+  "url": "https://github.com/your-repo/Cortex-Analyzers",
+  "license": "AGPL-V3",
+  "description": "Block an IP address using ufw",
+  "dataTypeList": ["thehive:case_artifact"],
+  "command": "BlockIP/block_ip.py",
+  "baseConfig": "BlockIP",
+  "configurationItems": []
+}
